@@ -1,1 +1,1 @@
-# New-Template-DBaaS
+# DURGA-SOC-Project
